@@ -1,16 +1,22 @@
 # Projeto de Exercícios de Programação para a empresa Target Sistemas
 
-Este projeto contém soluções para uma série de exercícios de programação, abordando diferentes temas e técnicas em Python inicialmente e depois fiz em Javascript o frontend com Bootstrap para facilitar a parte do design e ser rapido na resolução.
+Este projeto contém soluções para uma série de exercícios de programação, abordando diferentes temas e técnicas em Python inicialmente e depois fiz em Javascript o Frontend com Bootstrap para facilitar a parte do design e ser rapido na resolução.
 
 Abaixo está uma descrição resumida de cada exercício resolvido, juntamente com o nome do arquivo correspondente.
 
-Usamos Python para ter mais agilidade no desenvolvimento como tinha um tempo pré-definido.
+# Prints da resolução dos exercícios em JavaScript com Bootstrap:
 
-### Vamos tentar colocar os resultados de forma visual para um frontend.
+- navegar até a pasta respostas_em_javascript
+  <img src='assets/img/print1.jpg'>
+  <img src='assets/img/print2.jpg'>
+  <img src='assets/img/print3.jpg'>
+  <img src='assets/img/print4.jpg'>
+  <img src='assets/img/print5.jpg'>
+  <img src='assets/img/print6.jpg'>
 
-### Deixar esse pronto e vamos tentar fazer um com React agora, mas para
+# Resolução do exercícios em Python
 
-### garantir esse em Python já está pronto!
+- Navegar até a pasta respostas_em_python
 
 ## Exercícios
 
