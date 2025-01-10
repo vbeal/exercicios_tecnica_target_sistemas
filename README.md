@@ -32,14 +32,4 @@ Calcula o percentual de representação do faturamento de cada estado em relaç�
 
 Inverte os caracteres de uma string sem usar funções prontas como `reverse`.
 
-## Contribuindo
 
-Sinta-se à vontade para contribuir com melhorias ou novas soluções para os exercícios. Faça um fork deste repositório, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Espero que isso ajude a documentar e organizar seu projeto no GitHub. Se precisar de mais alguma coisa, estou aqui para ajudar! 🚀
