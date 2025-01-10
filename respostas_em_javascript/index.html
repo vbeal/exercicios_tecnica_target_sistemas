@@ -10,6 +10,23 @@
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      main {
+        flex: 1;
+      }
+      footer a {
+        color: white;
+        text-decoration: none;
+      }
+      footer a:hover {
+        color: red; /* Ou cinza claro, escolha a cor que preferir */
+      }
+    </style>
   </head>
   <body>
     <header data-bs-theme="dark">
@@ -29,7 +46,6 @@
           >
             <span class="navbar-toggler-icon"></span>
           </button>
-
           <div
             class="collapse navbar-collapse justify-content-md-center"
             id="navbarsExample08"
@@ -44,7 +60,7 @@
                 width="40"
                 height="32"
               />
-              <span class="fs-4">Target Sistemas</span>
+              <span class="fs-4 ms-2">Target Sistemas</span>
             </a>
             <ul class="navbar-nav">
               <li class="nav-item">
@@ -52,25 +68,21 @@
                   >Exercício 1</a
                 >
               </li>
-
               <li class="nav-item">
                 <a class="btn btn-secondary me-2" href="#exercicio2"
                   >Exercício 2</a
                 >
               </li>
-
               <li class="nav-item">
                 <a class="btn btn-secondary me-2" href="#exercicio3"
                   >Exercício 3</a
                 >
               </li>
-
               <li class="nav-item">
                 <a class="btn btn-secondary me-2" href="#exercicio4"
                   >Exercício 4</a
                 >
               </li>
-
               <li class="nav-item">
                 <a class="btn btn-secondary me-2" href="#exercicio5"
                   >Exercício 5</a
@@ -90,11 +102,31 @@
         </p>
       </div>
     </main>
-    <script src="script.js"></script>
+
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+      <div class="container">
+        <span
+          >&copy; <span id="currentYear"></span> - Victor Beal Filho -
+          <a href="mailto:victorbeal@gmail.com">victorbeal@gmail.com</a> |
+          <a href="https://github.com/vbeal">GitHub/vbeal</a></span
+        >
+      </div>
+    </footer>
+
+    <script src="js/exercicio1.js"></script>
+    <script src="js/exercicio2.js"></script>
+    <script src="js/exercicio3.js"></script>
+    <script src="js/exercicio4.js"></script>
+    <script src="js/exercicio5.js"></script>
+    <script src="js/main.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
       crossorigin="anonymous"
     ></script>
+    <script>
+      document.getElementById("currentYear").textContent =
+        new Date().getFullYear();
+    </script>
   </body>
 </html>
