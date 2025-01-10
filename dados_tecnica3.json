@@ -1,0 +1,12 @@
+[
+  { "dia": 1, "mes": 1, "ano": 2025, "valor": 100 },
+  { "dia": 2, "mes": 1, "ano": 2025, "valor": 200 },
+  { "dia": 3, "mes": 1, "ano": 2025, "valor": 0 },
+  { "dia": 4, "mes": 1, "ano": 2025, "valor": 150 },
+  { "dia": 5, "mes": 1, "ano": 2025, "valor": 300 },
+  { "dia": 6, "mes": 1, "ano": 2025, "valor": 0 },
+  { "dia": 7, "mes": 1, "ano": 2025, "valor": 500 },
+  { "dia": 8, "mes": 1, "ano": 2025, "valor": 0 },
+  { "dia": 9, "mes": 1, "ano": 2025, "valor": 250 },
+  { "dia": 10, "mes": 1, "ano": 2025, "valor": 400 }
+]
