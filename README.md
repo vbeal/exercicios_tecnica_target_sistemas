@@ -1,6 +1,8 @@
 # Projeto de Exercícios de Programação para a empresa Target Sistemas
 
-Este projeto contém soluções para uma série de exercícios de programação, abordando diferentes temas e técnicas em Python. Abaixo está uma descrição resumida de cada exercício resolvido, juntamente com o nome do arquivo correspondente.
+Este projeto contém soluções para uma série de exercícios de programação, abordando diferentes temas e técnicas em Python inicialmente e depois fiz em Javascript o frontend com Bootstrap para facilitar a parte do design e ser rapido na resolução.
+
+Abaixo está uma descrição resumida de cada exercício resolvido, juntamente com o nome do arquivo correspondente.
 
 Usamos Python para ter mais agilidade no desenvolvimento como tinha um tempo pré-definido.
 
@@ -31,5 +33,3 @@ Calcula o percentual de representação do faturamento de cada estado em relaç�
 ### 5. Inversão de String (tecnica5.py)
 
 Inverte os caracteres de uma string sem usar funções prontas como `reverse`.
-
-
