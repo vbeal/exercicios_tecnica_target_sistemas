@@ -6,6 +6,10 @@ Usamos Python para ter mais agilidade no desenvolvimento como tinha um tempo pr�
 
 ### Vamos tentar colocar os resultados de forma visual para um frontend.
 
+### Deixar esse pronto e vamos tentar fazer um com React agora, mas para
+
+### garantir esse em Python já está pronto!
+
 ## Exercícios
 
 ### 1. Cálculo de Soma com Loop (tecnica1.py)
